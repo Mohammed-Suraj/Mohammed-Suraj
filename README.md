@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohammed Suraj S  
 ### AI & Data Science | Web Development | 
 
-I'm passionate about building real-world solutions in *Machine Learning, Web Development, and Cloud*.  
+I'm passionate about building real-world solutions in *Data science,Machine Learning, Web Development, and well ai tools knowledge*.  
 I enjoy turning data into insights and creating AI-powered products.
 
 ---
@@ -30,8 +30,6 @@ Machine learning model to predict gold prices using historical financial data.
 - Exploratory Data Analysis & visualization  
 - Regression model for forecasting  
 
-🔗 Add repo link when uploaded
-
 ---
 
 ### 📌 *2. Mobile Specification Bot*  
@@ -40,7 +38,6 @@ Chatbot that provides detailed smartphone specifications.
 - Web scraping / API  
 - Conversational responses  
 
-🔗 Add repo link when uploaded
 
 ---
 
@@ -50,8 +47,6 @@ Predicts which customers are likely to leave a service.
 - Data cleaning & preprocessing  
 - Visual analytics  
 
-🔗 Add repo link when uploaded
-
 ---
 
 ### 📌 *4. AI Music Mood Composer*  
@@ -60,7 +55,6 @@ AI model that generates music based on mood inputs.
 - MIDI generation  
 - Music pattern learning  
 
-🔗 Add repo link when uploaded
 
 ---
 
