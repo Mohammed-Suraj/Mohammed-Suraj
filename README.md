@@ -8,12 +8,12 @@ I enjoy turning data into insights and creating AI-powered products.
 
 ## 🛠 Skills  
 
-### 💻 Programming  
-- *Python*, JavaScript, HTML, CSS, SQL  
+### 💻 Programming & development
+- *HTML,CSS,JAVASCRIPT,SQL,PYTHON,C
 
 ### 🤖 AI & Data Science  
-- keras,tensorflow,numpy,pandas
-- Machine Learning & Prediction Models  
+- keras,tensorflow,numpy,pandas frameworks
+- Machine Learning & Deep learning & Prediction Models  
 - Data Analysis & Visualization  
 - Power BI  
 
@@ -49,8 +49,8 @@ Predicts which customers are likely to leave a service.
 
 ---
 
-### 📌 *4. AI Music Mood Composer*  
-AI model that generates music based on mood inputs.  
+### 📌 *4. AI Music Mood Composer* -on progessing
+AI model that generates music based on mood inputs. 
 - Python, ML/DL  
 - MIDI generation  
 - Music pattern learning  
