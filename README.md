@@ -24,7 +24,49 @@ I enjoy turning data into insights and creating AI-powered products.
 
 ## 🚀 Projects  
 
-### 📌 *1. Gold Price Prediction*  
+
+🩺 1.Medical Awareness AI Chatbot (Tamil + English)
+
+An AI-powered medical awareness chatbot that helps users understand symptoms, provides health guidance, prevention tips, and advises when to visit a doctor.
+Supports Tamil + English, Voice Input + Voice Output, Mobile Friendly UI, Dark Mode, Admin Login, and hosted on Render (Free).
+
+⚠️ This chatbot is for awareness only. It does NOT replace a doctor or provide medical diagnosis.
+
+🚀 Features
+
+✔️ AI Powered (Groq Llama Model)
+
+✔️ Tamil + English Conversation Support
+
+✔️ Voice Input & Voice Output
+
+✔️ “Bot is Typing” & “Bot is Speaking” indicators
+
+✔️ Dark Mode
+
+✔️ Admin Login + Secure Access
+
+✔️ Saves Chat History
+
+✔️ Mobile Responsive
+
+✔️ Hosted Online (Render)
+
+🧠 Tech Stack
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Python + Flask
+
+AI Model: Groq Llama-3.1
+
+Hosting: Render
+
+Voice: Web Speech API
+
+Database (optional future upgrade): MongoDB / SQLite
+
+### 📌 *2. Gold Price Prediction*  
 Machine learning model to predict gold prices using historical financial data.  
 - Python, Pandas, NumPy, ML models  
 - Exploratory Data Analysis & visualization  
@@ -32,7 +74,7 @@ Machine learning model to predict gold prices using historical financial data.
 
 ---
 
-### 📌 *2. Mobile Specification Bot*  
+### 📌 *3. Mobile Specification Bot*  
 Chatbot that provides detailed smartphone specifications.  
 - Python  
 - Web scraping / API  
@@ -41,7 +83,7 @@ Chatbot that provides detailed smartphone specifications.
 
 ---
 
-### 📌 *3. Churn Prediction Model*  
+### 📌 *. Churn Prediction Model*  
 Predicts which customers are likely to leave a service.  
 - Classification ML model  
 - Data cleaning & preprocessing  
