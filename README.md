@@ -30,7 +30,7 @@ I enjoy turning data into insights and creating AI-powered products.
 An AI-powered medical awareness chatbot that helps users understand symptoms, provides health guidance, prevention tips, and advises when to visit a doctor.
 Supports Tamil + English, Voice Input + Voice Output, Mobile Friendly UI, Dark Mode, Admin Login, and hosted on Render (Free).
 
-⚠️ This chatbot is for awareness only. It does NOT replace a doctor or provide medical diagnosis.
+- This chatbot is for awareness only. It does NOT replace a doctor or provide medical diagnosis.
 
 🚀 Features
 
