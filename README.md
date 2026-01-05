@@ -1,127 +1,135 @@
-# 👋 Hi, I'm Mohammed Suraj S  
-### AI & Data Science | Web Development | 
+Mohammed Suraj S
 
-I'm passionate about building real-world solutions in *Data science,Machine Learning, Web Development, and well ai tools knowledge*.  
-I enjoy turning data into insights and creating AI-powered products.
+AI & Data Science | Machine Learning | Web Development
 
----
+I am an aspiring AI & Data Science Engineer with a strong interest in building real-world, impact-driven solutions using Machine Learning, Deep Learning, and Web Technologies. I enjoy transforming data into actionable insights and developing AI-powered applications that solve practical problems.
 
-## 🛠 Skills  
+I have hands-on experience in end-to-end project development, from data preprocessing and model building to deployment and user-friendly interfaces.
 
-### 💻 Programming & development
-- *HTML,CSS,JAVASCRIPT,SQL,PYTHON,C
+🛠 Technical Skills
+Programming & Development
 
-### 🤖 AI & Data Science  
-- keras,tensorflow,numpy,pandas frameworks
-- Machine Learning & Deep learning & Prediction Models  
-- Data Analysis & Visualization  
-- Power BI  
+HTML, CSS, JavaScript
 
-### ☁ Cloud  
-- AWS Cloud (EC2, S3, Lambda — beginner level)
+Python, SQL, C
 
----
+AI & Data Science
 
-## 🚀 Projects  
+Machine Learning & Deep Learning
 
+Predictive & Classification Models
 
-🩺 1.Medical Awareness AI Chatbot (Tamil + English)
+Data Analysis & Visualization
 
-An AI-powered medical awareness chatbot that helps users understand symptoms, provides health guidance, prevention tips, and advises when to visit a doctor.
-Supports Tamil + English, Voice Input + Voice Output, Mobile Friendly UI, Dark Mode, Admin Login, and hosted on Render (Free).
+NumPy, Pandas
 
-- This chatbot is for awareness only. It does NOT replace a doctor or provide medical diagnosis.
+TensorFlow, Keras
 
-🚀 Features
+Power BI
 
-✔️ AI Powered (Groq Llama Model)
+Cloud & Deployment
 
-✔️ Tamil + English Conversation Support
+AWS Cloud (EC2, S3, Lambda – Beginner)
 
-✔️ Voice Input & Voice Output
+Flask
 
-✔️ “Bot is Typing” & “Bot is Speaking” indicators
+Render
 
-✔️ Dark Mode
+🚀 Projects
+1. Medical Awareness AI Chatbot (Tamil + English)
 
-✔️ Admin Login + Secure Access
+An AI-powered medical awareness chatbot designed to help users understand symptoms, receive general health guidance, and learn preventive measures. The chatbot advises when to consult a doctor and supports bilingual interaction.
 
-✔️ Saves Chat History
+Disclaimer: This chatbot is strictly for awareness purposes and does not replace professional medical advice or diagnosis.
 
-✔️ Mobile Responsive
+Key Features
 
-✔️ Hosted Online (Render)
+AI-powered responses (Groq LLaMA Model)
 
-🧠 Tech Stack
+Tamil & English language support
+
+Voice input and voice output
+
+Typing and speaking indicators
+
+Dark mode UI
+
+Admin login with secure access
+
+Chat history storage
+
+Mobile-responsive design
+
+Hosted online (Render – Free Tier)
+
+Tech Stack
 
 Frontend: HTML, CSS, JavaScript
 
-Backend: Python + Flask
+Backend: Python, Flask
 
-AI Model: Groq Llama-3.1
+AI Model: Groq LLaMA-3.1
+
+Voice Integration: Web Speech API
 
 Hosting: Render
 
-Voice: Web Speech API
+Database (Future Upgrade): MongoDB / SQLite
 
-Database (optional future upgrade): MongoDB / SQLite
+2. Gold Price Prediction
 
-### 📌 *2. Gold Price Prediction*  
-Machine learning model to predict gold prices using historical financial data.  
-- Python, Pandas, NumPy, ML models  
-- Exploratory Data Analysis & visualization  
-- Regression model for forecasting  
+A machine learning model developed to predict gold prices using historical financial data.
 
----
+Data preprocessing and cleaning
 
-### 📌 *3. Mobile Specification Bot*  
-Chatbot that provides detailed smartphone specifications.  
-- Python  
-- Web scraping / API  
-- Conversational responses  
+Exploratory Data Analysis (EDA)
 
+Data visualization
 
----
+Regression-based forecasting models
 
-### 📌 *. Churn Prediction Model*  
-Predicts which customers are likely to leave a service.  
-- Classification ML model  
-- Data cleaning & preprocessing  
-- Visual analytics  
+Technologies: Python, Pandas, NumPy, Machine Learning
 
----
+3. Mobile Specification Bot
 
-### 📌 *4. AI Music Mood Composer* -on progessing
-AI model that generates music based on mood inputs. 
-- Python, ML/DL  
-- MIDI generation  
-- Music pattern learning  
+A chatbot that provides detailed and accurate smartphone specifications to users.
 
+Conversational interface
 
----
+Data extraction using web scraping or APIs
 
-## 📊 GitHub Stats  
+Structured and user-friendly responses
 
-![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohammed-Suraj&show_icons=true&theme=radical)
+Technologies: Python
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Suraj&layout=compact&theme=radical)
+4. Customer Churn Prediction Model
 
----
+A predictive analytics model to identify customers likely to leave a service.
 
-## 📫 Connect With Me  
-📧 *Email:* mohammedsuraj098@gmail.com## Hi there 👋
+Classification models
 
-<!--
-**Mohammed-Suraj/Mohammed-Suraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data preprocessing and feature engineering
 
-Here are some ideas to get you started:
+Visual analytics for insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies: Python, Machine Learning
+
+5. AI Music Mood Composer (In Progress)
+
+An AI system that generates music based on user-selected moods.
+
+Music pattern learning
+
+MIDI generation
+
+Machine Learning / Deep Learning techniques
+
+Technologies: Python, ML/DL
+
+📊 GitHub Statistics
+https://github.com/Mohammed-Suraj
+📫 Contact
+
+Email: mohammedsuraj098@gmail.com
+
+GitHub: https://github.com/Mohammed-Suraj
